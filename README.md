@@ -3,7 +3,7 @@ In this project i did EDA on Netflix Dataset using Kaggale:
 
 #https://www.kaggle.com/code/sanketshintre/netflix-dataset-eda
 
-Table of Content
+# Table of Content
 Data Information
 Handling Missing Data
 Creating New Columns
